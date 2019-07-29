@@ -5,7 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Authors>Marshall Penn</Authors>
-    <Company>ParavelMarshall Penn</Company>
+    <Company>Paravel Marshall Penn</Company>
     <Description>Simple Data Access class and String helper - ported from MHP20ClassLib</Description>
     <Copyright>Copyright 2019 Marshall Penn</Copyright>
     <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
@@ -15,6 +15,7 @@
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <FileVersion>1.0.1.0</FileVersion>
     <NeutralLanguage>en</NeutralLanguage>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
